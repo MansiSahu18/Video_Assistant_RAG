@@ -452,9 +452,9 @@ backend/
 
 # 👨‍💻 Author
 
-**Shubham Mandal**
+**Mansi Sahu**
 
-MCA Student At NIT Raipur| AI & Full Stack Developer
+MCA Student At NIT Raipur
 
 Passionate about building production-grade AI applications using FastAPI, LangChain, RAG, LLMs, Vector Databases, and Cloud Infrastructure.
 
